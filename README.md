@@ -9,6 +9,9 @@ This project aims to analyze **hospital readmissions** using patient data to unc
 📁 **Dataset**: [Hospital Admissions Dataset (Kaggle)](https://www.kaggle.com/datasets/tariqali/hospital-readmission-dataset)
 
 ---
+![Healthcare Readmission Dashboard](docs/Healthcare%20Readmission%20Analytics%20Dashboard%20Screenshot.png)
+
+---
 
 ## 🛠 Tools Used
 
