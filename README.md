@@ -110,12 +110,6 @@ The final dashboard includes:
 
 ---
 
-## 🧠 Insights
-
-- Patients diagnosed with **COPD** had the highest readmission rate (~29%)
-- **Long hospital stays** correlated with higher readmission probability
-- A comorbidity score above 5 sharply increased the chance of readmission
-- Patients aged **70+** were significantly more likely to be readmitted
 
 
 
